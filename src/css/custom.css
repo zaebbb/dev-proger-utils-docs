@@ -1,0 +1,22 @@
+:root {
+  --ifm-color-primary: #9a00ff; /* Яркий фиолетовый */
+  --ifm-color-primary-dark: #8a00e0; /* Темный фиолетовый */
+  --ifm-color-primary-darker: #7a00d0; /* Светлый фиолетовый */
+  --ifm-color-primary-darkest: #6a00c0; /* Темный фиолетовый */
+  --ifm-color-primary-light: #ba00ff; /* Яркий фиолетовый */
+  --ifm-color-primary-lighter: #c900ff; /* Светлый фиолетовый */
+  --ifm-color-primary-lightest: #e600ff; /* Яркий фиолетовый */
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #5a00c2; /* Темный фиолетовый */
+  --ifm-color-primary-dark: #4a0080; /* Светлый фиолетовый */
+  --ifm-color-primary-darker: #3a0060; /* Темный фиолетовый */
+  --ifm-color-primary-darkest: #2a0040; /* Светлый фиолетовый */
+  --ifm-color-primary-light: #6a00e0; /* Темный фиолетовый */
+  --ifm-color-primary-lighter: #7a00f0; /* Светлый фиолетовый */
+  --ifm-color-primary-lightest: #8a00ff; /* Темный фиолетовый */
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
